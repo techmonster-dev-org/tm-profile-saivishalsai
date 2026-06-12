@@ -7,6 +7,7 @@
 | Track | Progress | Status | Detail |
 |---|---|---|---|
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 
 ## Recent Verified Projects
 
