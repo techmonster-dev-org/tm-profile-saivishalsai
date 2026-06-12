@@ -1,8 +1,16 @@
 {
   "student": "saivishalsai",
-  "generatedAt": "2026-06-12T00:17:44.1645422Z",
+  "generatedAt": "2026-06-12T00:25:11.0615756Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
+    {
+      "track": "python-core",
+      "trackTitle": "Python Core (Beginner to Advanced)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./python-core/verified-record.json"
+    },
     {
       "track": "frontend",
       "trackTitle": "Frontend Engineering",
