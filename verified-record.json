@@ -1,6 +1,6 @@
 {
   "student": "saivishalsai",
-  "generatedAt": "2026-09-01T01:07:57.1313448Z",
+  "generatedAt": "2026-09-11T00:10:47.2518095Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -30,9 +30,9 @@
     {
       "track": "c-systems",
       "trackTitle": "C & Systems Programming (Zero to the Kernel)",
-      "progressPct": 4,
+      "progressPct": 6,
       "status": "on-track",
-      "verifiedCount": 2,
+      "verifiedCount": 3,
       "detailUrl": "./c-systems/verified-record.json"
     },
     {
