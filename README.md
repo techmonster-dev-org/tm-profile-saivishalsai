@@ -1,6 +1,6 @@
 # saivishalsai — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-09-01
+> Certified by TechMonster · Profile updated 2026-09-11
 
 ## Tracks
 
@@ -9,13 +9,14 @@
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
-| C & Systems Programming (Zero to the Kernel) | [█░░░░░░░░░░░░░░] 4% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
+| C & Systems Programming (Zero to the Kernel) | [█░░░░░░░░░░░░░░] 6% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
 | C++ From Zero (Absolute Beginner to Modern C++) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./cpp-from-zero/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| C & Systems Programming (Zero to the Kernel) | Explore array-to-pointer decay, pointer arithmetic, and null-terminated strings by implementing my_strlen and my_strcpy from scratch using only pointer operations. | 2026-09-11 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/12) |
 | C & Systems Programming (Zero to the Kernel) | Declare pointer variables, use & and * to take addresses and dereference, handle NULL safely, and use pointer-to-pointer to pass pointers as output parameters. | 2026-09-01 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/9) |
 | C & Systems Programming (Zero to the Kernel) | Explore C's fundamental types, use sizeof and <limits.h> to inspect platform sizes and bounds, use <stdint.h> fixed-width types, and understand why signed overflow is undefined behavior while unsigned wraparound is not. | 2026-09-01 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/8) |
 
