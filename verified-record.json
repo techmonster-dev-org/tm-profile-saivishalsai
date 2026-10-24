@@ -1,6 +1,6 @@
 {
   "student": "saivishalsai",
-  "generatedAt": "2026-10-23T00:11:40.1073923Z",
+  "generatedAt": "2026-10-24T00:10:36.0345992Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -34,6 +34,14 @@
       "status": "on-track",
       "verifiedCount": 3,
       "detailUrl": "./c-systems/verified-record.json"
+    },
+    {
+      "track": "computer-architecture",
+      "trackTitle": "Computer Architecture & Systems (How the Machine Really Works)",
+      "progressPct": 0,
+      "status": "stuck",
+      "verifiedCount": 0,
+      "detailUrl": "./computer-architecture/verified-record.json"
     },
     {
       "track": "cpp-from-zero",
