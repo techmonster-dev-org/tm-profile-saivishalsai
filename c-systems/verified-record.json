@@ -51,21 +51,11 @@
     "Pointers, Memory & Manual Management",
     "Bare Metal, Embedded & the Kernel"
   ],
-  "generatedAt": "2026-10-27T01:28:14.9496997Z",
+  "generatedAt": "2026-10-27T01:35:59.9371872Z",
   "verifiedBy": "techmonster-dev",
-  "progressPct": 6,
+  "progressPct": 4,
   "status": "on-track",
   "projects": [
-    {
-      "project": "Explore C's fundamental types, use sizeof and <limits.h> to inspect platform sizes and bounds, use <stdint.h> fixed-width types, and understand why signed overflow is undefined behavior while unsigned wraparound is not.",
-      "phase": "phase-1-foundations",
-      "phaseTitle": "C Foundations & the Toolchain",
-      "score": "pass",
-      "understanding": "verified",
-      "reviewedAt": "2026-09-01T01:05:56.8963661Z",
-      "commitAnchor": "9b74309d7cd94e42f496ee9e567b36eb17f3940f",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/8"
-    },
     {
       "project": "Declare pointer variables, use & and * to take addresses and dereference, handle NULL safely, and use pointer-to-pointer to pass pointers as output parameters.",
       "phase": "phase-2-pointers-memory",
@@ -73,7 +63,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-09-01T01:06:53.181696Z",
-      "commitAnchor": "9b74309d7cd94e42f496ee9e567b36eb17f3940f",
+      "commitAnchor": "8c920d3321d594c1c867b5a119d61d75aa2121d3",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/9"
     },
     {
@@ -83,7 +73,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-09-11T00:08:25.8580308Z",
-      "commitAnchor": "9b74309d7cd94e42f496ee9e567b36eb17f3940f",
+      "commitAnchor": "8c920d3321d594c1c867b5a119d61d75aa2121d3",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/12"
     }
   ]
