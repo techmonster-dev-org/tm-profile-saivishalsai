@@ -16,9 +16,9 @@
 | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | ⬜ Not started | — | — | — |
 | Build a small statistics toolkit to master function parameters, default arguments, *args/**kwargs, multiple return values, scope, and the mutable-default-argument trap. | ⬜ Not started | — | — | — |
 | Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ⬜ Not started | — | — | — |
-| Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | ⬜ Not started | ❌ Failed | 2026-06-12 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/1) |
-| Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | ⬜ Not started | ⚠️ Unverified | 2026-06-12 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/3) |
-| Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | ⬜ Not started | ❌ Failed | 2026-06-12 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/2) |
+| Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/4) |
+| Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/6) |
+| Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/5) |
 
 ## Idiomatic & Functional Python
 
