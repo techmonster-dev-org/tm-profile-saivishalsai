@@ -1,6 +1,6 @@
 {
   "student": "saivishalsai",
-  "generatedAt": "2026-10-27T01:35:42.4121415Z",
+  "generatedAt": "2026-10-31T00:10:34.6030368Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -23,7 +23,7 @@
       "track": "frontend-advanced",
       "trackTitle": "Frontend Advanced — Next.js",
       "progressPct": 0,
-      "status": "on-track",
+      "status": "stuck",
       "verifiedCount": 0,
       "detailUrl": "./frontend-advanced/verified-record.json"
     },
