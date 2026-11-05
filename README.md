@@ -17,9 +17,9 @@
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| C & Systems Programming (Zero to the Kernel) | Fix a data race with pthread_mutex, implement a bounded producer-consumer queue with condition variables, and demonstrate and prevent deadlock. | 2026-11-05 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/68) |
 | C & Systems Programming (Zero to the Kernel) | Explore C's fundamental types, use sizeof and <limits.h> to inspect platform sizes and bounds, use <stdint.h> fixed-width types, and understand why signed overflow is undefined behavior while unsigned wraparound is not. | 2026-11-05 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/65) |
 | Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-05 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/9) |
-| C & Systems Programming (Zero to the Kernel) | Fix a data race with pthread_mutex, implement a bounded producer-consumer queue with condition variables, and demonstrate and prevent deadlock. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/58) |
 | C & Systems Programming (Zero to the Kernel) | Build well-behaved CLI programs in C: parse options with getopt, read and modify environment variables, register atexit cleanup handlers, and measure wall and CPU time. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/54) |
 | C & Systems Programming (Zero to the Kernel) | Master POSIX signal handling with sigaction, implement graceful shutdown, use SIGCHLD to reap children asynchronously, and understand async-signal-safety. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/53) |
 
