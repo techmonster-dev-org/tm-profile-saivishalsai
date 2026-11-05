@@ -1,15 +1,15 @@
 # saivishalsai — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-02
+> Certified by TechMonster · Profile updated 2026-11-05
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
-| Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 2% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend-advanced/README.md) |
-| C & Systems Programming (Zero to the Kernel) | [█░░░░░░░░░░░░░░] 4% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
+| C & Systems Programming (Zero to the Kernel) | [███░░░░░░░░░░░░] 19% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
 | Computer Architecture & Systems (How the Machine Really Works) | [░░░░░░░░░░░░░░░] 0% | 🟡 Needs a Nudge | [→ Full breakdown](./computer-architecture/README.md) |
 | C++ From Zero (Absolute Beginner to Modern C++) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./cpp-from-zero/README.md) |
 
@@ -17,8 +17,11 @@
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| C & Systems Programming (Zero to the Kernel) | Explore array-to-pointer decay, pointer arithmetic, and null-terminated strings by implementing my_strlen and my_strcpy from scratch using only pointer operations. | 2026-09-11 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/12) |
-| C & Systems Programming (Zero to the Kernel) | Declare pointer variables, use & and * to take addresses and dereference, handle NULL safely, and use pointer-to-pointer to pass pointers as output parameters. | 2026-09-01 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/9) |
+| Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-05 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/9) |
+| C & Systems Programming (Zero to the Kernel) | Fix a data race with pthread_mutex, implement a bounded producer-consumer queue with condition variables, and demonstrate and prevent deadlock. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/58) |
+| C & Systems Programming (Zero to the Kernel) | Build well-behaved CLI programs in C: parse options with getopt, read and modify environment variables, register atexit cleanup handlers, and measure wall and CPU time. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/54) |
+| C & Systems Programming (Zero to the Kernel) | Master POSIX signal handling with sigaction, implement graceful shutdown, use SIGCHLD to reap children asynchronously, and understand async-signal-safety. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/53) |
+| C & Systems Programming (Zero to the Kernel) | Implement shell-style pipes and redirection in C using pipe(), dup2(), fork(), and exec() — connecting processes so one's output feeds another's input. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/52) |
 
 ## How This Profile Is Verified
 
