@@ -1,14 +1,14 @@
 {
   "student": "saivishalsai",
-  "generatedAt": "2026-11-02T00:11:25.8985516Z",
+  "generatedAt": "2026-11-05T00:18:17.9968951Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
       "track": "python-core",
       "trackTitle": "Python Core (Beginner to Advanced)",
-      "progressPct": 0,
+      "progressPct": 2,
       "status": "on-track",
-      "verifiedCount": 0,
+      "verifiedCount": 1,
       "detailUrl": "./python-core/verified-record.json"
     },
     {
@@ -30,9 +30,9 @@
     {
       "track": "c-systems",
       "trackTitle": "C & Systems Programming (Zero to the Kernel)",
-      "progressPct": 4,
+      "progressPct": 19,
       "status": "on-track",
-      "verifiedCount": 2,
+      "verifiedCount": 9,
       "detailUrl": "./c-systems/verified-record.json"
     },
     {
