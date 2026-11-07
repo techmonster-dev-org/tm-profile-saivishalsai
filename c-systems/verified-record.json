@@ -51,9 +51,9 @@
     "Pointers, Memory & Manual Management",
     "Bare Metal, Embedded & the Kernel"
   ],
-  "generatedAt": "2026-11-07T00:23:21.0027080Z",
+  "generatedAt": "2026-11-07T00:30:21.5864300Z",
   "verifiedBy": "techmonster-dev",
-  "progressPct": 23,
+  "progressPct": 27,
   "status": "on-track",
   "projects": [
     {
@@ -115,6 +115,26 @@
       "reviewedAt": "2026-11-04T18:56:11.1313885Z",
       "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/52"
+    },
+    {
+      "project": "Master C's if/else, switch with fallthrough, all three loop forms, break/continue, and the kernel-style goto cleanup ladder — the control flow patterns found in the Linux kernel, git, nginx, and SQLite.",
+      "phase": "phase-1-foundations",
+      "phaseTitle": "C Foundations & the Toolchain",
+      "score": "pass",
+      "understanding": "verified",
+      "reviewedAt": "2026-11-07T00:26:28.1625665Z",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/76"
+    },
+    {
+      "project": "Write prototypes and definitions, observe pass-by-value, trace the call stack through recursion, use static local variables for persistent state, and control file-scope visibility with static/extern linkage.",
+      "phase": "phase-1-foundations",
+      "phaseTitle": "C Foundations & the Toolchain",
+      "score": "pass",
+      "understanding": "verified",
+      "reviewedAt": "2026-11-07T00:27:45.6566636Z",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/77"
     },
     {
       "project": "Define structs and access fields with . and ->, observe struct padding with offsetof/sizeof, use unions for type punning float bits, and pair enums with typedef for clean state machines.",
