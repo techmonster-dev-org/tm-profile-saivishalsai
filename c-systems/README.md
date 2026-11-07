@@ -4,7 +4,7 @@
 
 ## Progress
 
-[████░░░░░░░░░░░░░░░░] 19%   (9 of 48 projects completed)
+[█████░░░░░░░░░░░░░░░] 23%   (11 of 48 projects completed)
 
 ## C Foundations & the Toolchain
 
@@ -12,10 +12,10 @@
 |---|---|---|---|---|
 | Build a complete wc-style line/word/character counter using argc/argv, fopen/fgets/fclose, multi-function design, error handling with stderr, and a Makefile — synthesizing every concept from Phase 1 into a real Unix-quality command-line tool. | ⬜ Not started | — | — | — |
 | Master C's if/else, switch with fallthrough, all three loop forms, break/continue, and the kernel-style goto cleanup ladder — the control flow patterns found in the Linux kernel, git, nginx, and SQLite. | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/30) |
-| Write your first C program, trace the four-stage gcc compilation pipeline (preprocess/compile/assemble/link), and understand why C produces tiny, fast native binaries. | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/27) |
+| Write your first C program, trace the four-stage gcc compilation pipeline (preprocess/compile/assemble/link), and understand why C produces tiny, fast native binaries. | ✅ Pass | ✅ Verified | 2026-11-07 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/73) |
 | Write prototypes and definitions, observe pass-by-value, trace the call stack through recursion, use static local variables for persistent state, and control file-scope visibility with static/extern linkage. | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/31) |
-| Explore C's fundamental types, use sizeof and <limits.h> to inspect platform sizes and bounds, use <stdint.h> fixed-width types, and understand why signed overflow is undefined behavior while unsigned wraparound is not. | ✅ Pass | ✅ Verified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/65) |
-| Master C's arithmetic, comparison, logical, and bitwise operators, understand operator precedence traps, and implement the set/test/clear/toggle bit-manipulation patterns used in every device driver and systems library. | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/29) |
+| Explore C's fundamental types, use sizeof and <limits.h> to inspect platform sizes and bounds, use <stdint.h> fixed-width types, and understand why signed overflow is undefined behavior while unsigned wraparound is not. | ✅ Pass | ✅ Verified | 2026-11-07 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/74) |
+| Master C's arithmetic, comparison, logical, and bitwise operators, understand operator precedence traps, and implement the set/test/clear/toggle bit-manipulation patterns used in every device driver and systems library. | ✅ Pass | ✅ Verified | 2026-11-07 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/75) |
 | Declare, initialize, and iterate 1D and 2D arrays, understand array decay to pointer, verify row-major memory layout, and observe why C performs no bounds checking — and how AddressSanitizer catches the resulting bugs. | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/33) |
 | Master printf/scanf format strings, read input safely with fgets, understand C strings as null-terminated char arrays, and use <string.h> functions (strlen, strcpy, strcmp, strcat) while learning why gets() was a security disaster. | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/32) |
 
