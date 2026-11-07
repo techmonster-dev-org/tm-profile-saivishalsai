@@ -51,20 +51,40 @@
     "Pointers, Memory & Manual Management",
     "Bare Metal, Embedded & the Kernel"
   ],
-  "generatedAt": "2026-11-07T00:16:11.7511196Z",
+  "generatedAt": "2026-11-07T00:23:21.0027080Z",
   "verifiedBy": "techmonster-dev",
-  "progressPct": 19,
+  "progressPct": 23,
   "status": "on-track",
   "projects": [
+    {
+      "project": "Write your first C program, trace the four-stage gcc compilation pipeline (preprocess/compile/assemble/link), and understand why C produces tiny, fast native binaries.",
+      "phase": "phase-1-foundations",
+      "phaseTitle": "C Foundations & the Toolchain",
+      "score": "pass",
+      "understanding": "verified",
+      "reviewedAt": "2026-11-07T00:18:14.7120487Z",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/73"
+    },
     {
       "project": "Explore C's fundamental types, use sizeof and <limits.h> to inspect platform sizes and bounds, use <stdint.h> fixed-width types, and understand why signed overflow is undefined behavior while unsigned wraparound is not.",
       "phase": "phase-1-foundations",
       "phaseTitle": "C Foundations & the Toolchain",
       "score": "pass",
       "understanding": "verified",
-      "reviewedAt": "2026-11-05T00:20:16.5457144Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/65"
+      "reviewedAt": "2026-11-07T00:19:52.8836024Z",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/74"
+    },
+    {
+      "project": "Master C's arithmetic, comparison, logical, and bitwise operators, understand operator precedence traps, and implement the set/test/clear/toggle bit-manipulation patterns used in every device driver and systems library.",
+      "phase": "phase-1-foundations",
+      "phaseTitle": "C Foundations & the Toolchain",
+      "score": "pass",
+      "understanding": "verified",
+      "reviewedAt": "2026-11-07T00:23:01.9726996Z",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/75"
     },
     {
       "project": "Declare pointer variables, use & and * to take addresses and dereference, handle NULL safely, and use pointer-to-pointer to pass pointers as output parameters.",
@@ -73,7 +93,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:24:57.1869374Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/34"
     },
     {
@@ -83,7 +103,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:26:02.3899929Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/35"
     },
     {
@@ -93,7 +113,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:56:11.1313885Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/52"
     },
     {
@@ -103,7 +123,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:27:26.8927648Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/36"
     },
     {
@@ -113,7 +133,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:33:32.8411881Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/39"
     },
     {
@@ -123,7 +143,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:58:02.2981125Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/53"
     },
     {
@@ -133,7 +153,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-04T18:59:19.8252879Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/54"
     },
     {
@@ -143,7 +163,7 @@
       "score": "pass",
       "understanding": "verified",
       "reviewedAt": "2026-11-05T00:26:23.3006087Z",
-      "commitAnchor": "e2c18fc02eca3c0f49beab1afc5538fe870983f4",
+      "commitAnchor": "8bfd39294bd3f9dc97ca5c711e9df80dd401d2bf",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/68"
     }
   ]
