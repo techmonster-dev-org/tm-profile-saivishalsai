@@ -51,7 +51,7 @@
     "Pointers, Memory & Manual Management",
     "C Foundations & the Toolchain"
   ],
-  "generatedAt": "2026-11-11T00:13:56.2558906Z",
+  "generatedAt": "2026-11-11T00:19:52.5274335Z",
   "verifiedBy": "techmonster-dev",
   "progressPct": 23,
   "status": "on-track",
@@ -107,14 +107,14 @@
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/52"
     },
     {
-      "project": "Write prototypes and definitions, observe pass-by-value, trace the call stack through recursion, use static local variables for persistent state, and control file-scope visibility with static/extern linkage.",
+      "project": "Master printf/scanf format strings, read input safely with fgets, understand C strings as null-terminated char arrays, and use <string.h> functions (strlen, strcpy, strcmp, strcat) while learning why gets() was a security disaster.",
       "phase": "phase-1-foundations",
       "phaseTitle": "C Foundations & the Toolchain",
       "score": "pass",
       "understanding": "verified",
-      "reviewedAt": "2026-11-07T00:27:45.6566636Z",
+      "reviewedAt": "2026-11-11T00:17:41.2569903Z",
       "commitAnchor": "8bd5ed8dac965486ee5e185d86b0da2f3ec2046f",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/77"
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/91"
     },
     {
       "project": "Define structs and access fields with . and ->, observe struct padding with offsetof/sizeof, use unions for type punning float bits, and pair enums with typedef for clean state machines.",
