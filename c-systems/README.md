@@ -76,7 +76,7 @@
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
 | Build a real networked key-value store server: an epoll event loop, a hand-written chaining hash table with resize, a line-oriented GET/SET protocol with partial-read handling, a test client, and a Makefile build proven memory-safe under Valgrind and AddressSanitizer. | ⬜ Not started | — | — | — |
-| Compile C to assembly with gcc -S, trace the System V AMD64 calling convention and stack frame, apply volatile to hardware register simulation, write inline asm with RDTSC, and build a freestanding object with no OS runtime. | ⬜ Not started | — | — | — |
+| Compile C to assembly with gcc -S, trace the System V AMD64 calling convention and stack frame, apply volatile to hardware register simulation, write inline asm with RDTSC, and build a freestanding object with no OS runtime. | ⏳ Needs work | ❌ Failed | 2026-11-12 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/99) |
 | Configure SysTick interrupts on a bare-metal Cortex-M3, write a naked context-switch ISR in inline ARM assembly, build fake initial task frames, and implement a two-task round-robin preemptive scheduler. | ⬜ Not started | — | — | — |
 | Implement a complete Linux character device driver with a circular buffer: file_operations (open/release/read/write), alloc_chrdev_region, cdev_add, class_create/device_create for /dev, and copy_to_user/copy_from_user with proper mutex locking. | ⬜ Not started | — | — | — |
 | Write a complete bare-metal blink program for ARM Cortex-M3 from scratch: linker script, startup.c reset handler with .data/.bss init, GPIO register writes, and a cross-compiled Makefile build runnable in QEMU. | ⬜ Not started | — | — | — |
