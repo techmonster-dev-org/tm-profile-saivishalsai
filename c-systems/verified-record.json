@@ -51,9 +51,9 @@
     "Bare Metal, Embedded & the Kernel",
     "Pointers, Memory & Manual Management"
   ],
-  "generatedAt": "2026-11-15T00:14:00.1320181Z",
+  "generatedAt": "2026-11-15T00:20:22.7204754Z",
   "verifiedBy": "techmonster-dev",
-  "progressPct": 33,
+  "progressPct": 35,
   "status": "on-track",
   "projects": [
     {
@@ -122,9 +122,9 @@
       "phaseTitle": "Modular C & Data Structures",
       "score": "pass",
       "understanding": "verified",
-      "reviewedAt": "2026-11-11T00:25:31.2731099Z",
+      "reviewedAt": "2026-11-15T00:20:03.2744215Z",
       "commitAnchor": "96c44f7df5d76820450f6e14058bd9054faaa7b5",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/95"
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/104"
     },
     {
       "project": "Implement shell-style pipes and redirection in C using pipe(), dup2(), fork(), and exec() — connecting processes so one's output feeds another's input.",
@@ -135,6 +135,16 @@
       "reviewedAt": "2026-11-04T18:56:11.1313885Z",
       "commitAnchor": "96c44f7df5d76820450f6e14058bd9054faaa7b5",
       "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/52"
+    },
+    {
+      "project": "Master C's if/else, switch with fallthrough, all three loop forms, break/continue, and the kernel-style goto cleanup ladder — the control flow patterns found in the Linux kernel, git, nginx, and SQLite.",
+      "phase": "phase-1-foundations",
+      "phaseTitle": "C Foundations & the Toolchain",
+      "score": "pass",
+      "understanding": "verified",
+      "reviewedAt": "2026-11-15T00:17:29.1065074Z",
+      "commitAnchor": "96c44f7df5d76820450f6e14058bd9054faaa7b5",
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/102"
     },
     {
       "project": "Master printf/scanf format strings, read input safely with fgets, understand C strings as null-terminated char arrays, and use <string.h> functions (strlen, strcpy, strcmp, strcat) while learning why gets() was a security disaster.",
