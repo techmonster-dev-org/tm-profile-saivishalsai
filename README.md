@@ -1,6 +1,6 @@
 # saivishalsai — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-17
+> Certified by TechMonster · Profile updated 2026-11-19
 
 ## Tracks
 
@@ -17,11 +17,11 @@
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/12) |
 | C & Systems Programming (Zero to the Kernel) | Build type-erased C functions using void* pointers, memcpy for element copying, and comparator/printer callbacks — the model behind qsort, bsearch, and every C container library. | 2026-11-15 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/104) |
 | C & Systems Programming (Zero to the Kernel) | Master C's if/else, switch with fallthrough, all three loop forms, break/continue, and the kernel-style goto cleanup ladder — the control flow patterns found in the Linux kernel, git, nginx, and SQLite. | 2026-11-15 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/102) |
 | C & Systems Programming (Zero to the Kernel) | Master C's arithmetic, comparison, logical, and bitwise operators, understand operator precedence traps, and implement the set/test/clear/toggle bit-manipulation patterns used in every device driver and systems library. | 2026-11-15 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/100) |
 | C & Systems Programming (Zero to the Kernel) | Build singly and doubly linked list libraries in C, then implement the Linux kernel's intrusive list_head pattern with container_of — giving O(1) insert/remove at any known node. | 2026-11-12 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/97) |
-| C & Systems Programming (Zero to the Kernel) | Build a growable heap array using the double-capacity realloc strategy, manage arrays of structs with owned string fields, implement deep vs shallow copy, and verify zero leaks with Valgrind. | 2026-11-11 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-c-systems/issues/94) |
 
 ## How This Profile Is Verified
 
