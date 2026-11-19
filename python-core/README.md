@@ -10,15 +10,15 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ⬜ Not started | — | — | — |
+| Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ⬜ Not started | ⚠️ Unverified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/15) |
 | Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | ⏳ Needs work | ⚠️ Unverified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/13) |
-| Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | ⬜ Not started | — | — | — |
+| Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | ⬜ Not started | ⚠️ Unverified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/17) |
 | Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | ⏳ Needs work | ⚠️ Unverified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/14) |
 | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | ⬜ Not started | — | — | — |
 | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/12) |
 | Build a reusable validation layer with custom exceptions to master try/except/else/finally, exception hierarchy, raising and chaining, and the EAFP vs LBYL styles. | ⬜ Not started | — | — | — |
 | Build a small statistics toolkit to master function parameters, default arguments, *args/**kwargs, multiple return values, scope, and the mutable-default-argument trap. | ⬜ Not started | — | — | — |
-| Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | ⬜ Not started | — | — | — |
+| Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | ⬜ Not started | ⚠️ Unverified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/16) |
 
 ## Idiomatic & Functional Python
 
