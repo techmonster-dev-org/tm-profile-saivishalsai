@@ -1,14 +1,14 @@
 {
   "student": "saivishalsai",
-  "generatedAt": "2026-11-19T00:26:05.9957768Z",
+  "generatedAt": "2026-11-20T00:14:14.5360263Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
       "track": "python-core",
       "trackTitle": "Python Core (Beginner to Advanced)",
-      "progressPct": 2,
+      "progressPct": 0,
       "status": "on-track",
-      "verifiedCount": 1,
+      "verifiedCount": 0,
       "detailUrl": "./python-core/verified-record.json"
     },
     {
