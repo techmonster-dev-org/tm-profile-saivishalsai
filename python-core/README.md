@@ -27,7 +27,7 @@
 | Build timing, caching, and retry decorators to learn how functions wrap other functions, why functools.wraps matters, and how decorators with arguments work. | ⬜ Not started | — | — | — |
 | Model structured records with dataclasses (mutable, frozen, with defaults and methods), Enums for fixed choices, and NamedTuple for lightweight immutable records. | ⬜ Not started | — | — | — |
 | Build configurable function factories and pipelines to master closures, functions as values, higher-order functions, and lambda — the foundation under decorators and callbacks. | ⬜ Not started | — | — | — |
-| Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | ⬜ Not started | — | — | — |
+| Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | ⬜ Not started | ⚠️ Unverified | 2026-11-20 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/22) |
 | Add complete type hints to a small module and verify them with mypy: built-in generics, Optional/Union, type aliases, Protocols, and Generics. | ⬜ Not started | — | — | — |
 | Solve real problems with itertools (chain, islice, groupby, count, cycle, combinations, permutations, accumulate) to learn efficient, lazy iteration patterns. | ⬜ Not started | — | — | — |
 | Build a lazy log-file reader and number streams using the iterator protocol and generator functions with yield, learning lazy evaluation and memory efficiency. | ⬜ Not started | — | — | — |
