@@ -26,12 +26,12 @@
 |---|---|---|---|---|
 | Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | ⬜ Not started | ⚠️ Unverified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/34) |
 | Build configurable function factories and pipelines to master closures, functions as values, higher-order functions, and lambda — the foundation under decorators and callbacks. | ⬜ Not started | ⚠️ Unverified | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/37) |
-| Solve real problems with itertools (chain, islice, groupby, count, cycle, combinations, permutations, accumulate) to learn efficient, lazy iteration patterns. | ⬜ Not started | — | — | — |
-| Process data with map, filter, functools.reduce, functools.partial, and the operator module — and learn when these beat a comprehension and when they don't. | ⬜ Not started | — | — | — |
+| Solve real problems with itertools (chain, islice, groupby, count, cycle, combinations, permutations, accumulate) to learn efficient, lazy iteration patterns. | ⬜ Not started | ❌ Failed | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/39) |
+| Process data with map, filter, functools.reduce, functools.partial, and the operator module — and learn when these beat a comprehension and when they don't. | ⬜ Not started | ⚠️ Unverified | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/38) |
 | Build a lazy log-file reader and number streams using the iterator protocol and generator functions with yield, learning lazy evaluation and memory efficiency. | ⬜ Not started | ❌ Failed | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/35) |
 | Build timing, caching, and retry decorators to learn how functions wrap other functions, why functools.wraps matters, and how decorators with arguments work. | ⬜ Not started | ❌ Failed | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/36) |
 | Model structured records with dataclasses (mutable, frozen, with defaults and methods), Enums for fixed choices, and NamedTuple for lightweight immutable records. | ⬜ Not started | — | — | — |
-| Add complete type hints to a small module and verify them with mypy: built-in generics, Optional/Union, type aliases, Protocols, and Generics. | ⬜ Not started | — | — | — |
+| Add complete type hints to a small module and verify them with mypy: built-in generics, Optional/Union, type aliases, Protocols, and Generics. | ⬜ Not started | ⚠️ Unverified | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/40) |
 
 ## Object-Oriented Python & Design
 
