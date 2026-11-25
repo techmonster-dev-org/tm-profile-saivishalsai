@@ -38,13 +38,13 @@
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
 | Define a payment-processor interface with abc.ABC and @abstractmethod so subclasses are forced to implement required methods, learning interface-based design. | ⬜ Not started | ⚠️ Unverified | 2026-11-25 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/47) |
-| Implement Strategy, Factory, and a Pythonic Singleton/registry, learning how Python's first-class functions and modules simplify classic OO patterns. | ⬜ Not started | — | — | — |
+| Implement Strategy, Factory, and a Pythonic Singleton/registry, learning how Python's first-class functions and modules simplify classic OO patterns. | ⬜ Not started | ⚠️ Unverified | 2026-11-25 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/50) |
 | Add alternative constructors and utility methods to a Date/Color class to learn @classmethod, @staticmethod, and how they differ from instance methods. | ⬜ Not started | ❌ Failed | 2026-11-25 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/48) |
 | Use @property, setters, and computed attributes to enforce invariants and expose a clean interface, learning Python's convention-based encapsulation. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/46) |
 | Build a Vector and a Money class implementing __repr__/__str__, __eq__/__hash__, __add__, comparison, and __len__ to learn how Python's data model makes objects behave like built-ins. | ⬜ Not started | ❌ Failed | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/44) |
 | Model a shape hierarchy to learn inheritance, method overriding, super(), and how Python resolves methods across multiple base classes (the MRO). | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/45) |
 | Model a bank account with classes to learn __init__, instance vs class attributes, methods, and the role of self. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/43) |
-| Model a Car built from an Engine, Wheels, and a Logger to learn composition, delegation, and dependency injection — and when they beat inheritance. | ⬜ Not started | — | — | — |
+| Model a Car built from an Engine, Wheels, and a Logger to learn composition, delegation, and dependency injection — and when they beat inheritance. | ⬜ Not started | ⚠️ Unverified | 2026-11-25 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/49) |
 
 ## Modules, Packaging & Environments
 
