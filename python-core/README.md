@@ -63,12 +63,12 @@
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
 | Replace print debugging with the logging module: levels, loggers, handlers, formatters, and writing to console and file with structured output. | ⬜ Not started | — | — | — |
-| Build a file-organizing tool using pathlib to read, write, move, and inspect files and directories the modern way, learning paths, encodings, and safe I/O. | ⬜ Not started | — | — | — |
+| Build a file-organizing tool using pathlib to read, write, move, and inspect files and directories the modern way, learning paths, encodings, and safe I/O. | ⬜ Not started | ⚠️ Unverified | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/60) |
 | Build a small scheduling/age calculator to master datetime, timedelta, parsing/formatting, and the critical difference between naive and timezone-aware datetimes. | ⬜ Not started | — | — | — |
-| Read, write, and convert between JSON and CSV with the standard library, handling nested data, types, and the quirks of each format. | ⬜ Not started | — | — | — |
+| Read, write, and convert between JSON and CSV with the standard library, handling nested data, types, and the quirks of each format. | ⬜ Not started | ⚠️ Unverified | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/62) |
 | Run external commands with subprocess and interact with the environment via os/shutil, learning safe argument passing, capturing output, exit codes, and avoiding shell-injection. | ⬜ Not started | — | — | — |
 | Build a log/text extractor with the re module: patterns, groups, named groups, substitution, and compiled patterns, learning when regex is the right tool and when it isn't. | ⬜ Not started | — | — | — |
-| Write custom context managers with both __enter__/__exit__ and contextlib.contextmanager (a timer, a temporary-directory, a DB-like transaction) to master guaranteed setup/teardown. | ⬜ Not started | — | — | — |
+| Write custom context managers with both __enter__/__exit__ and contextlib.contextmanager (a timer, a temporary-directory, a DB-like transaction) to master guaranteed setup/teardown. | ⬜ Not started | ❌ Failed | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-saivishalsai-python-core/issues/61) |
 
 ## Concurrency, Performance & Testing
 
